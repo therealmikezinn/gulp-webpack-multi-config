@@ -1,0 +1,13 @@
+{
+  "name": "gulp-webpack-multi-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Zinn",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.0",
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3",
+    "webpack": "^3.10.0"
+  }
+}
